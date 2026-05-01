@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://plumberabilene.github.io/sitemap.xml
+Sitemap: https://plumberabilene.github.io/Plumber-Abilene-TX/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
